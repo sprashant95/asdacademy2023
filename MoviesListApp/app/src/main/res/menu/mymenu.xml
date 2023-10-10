@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+ <item
+     android:title="Horror"
+     android:id="@+id/horror"
+     android:icon="@drawable/profile"/>
+
+ <item
+     android:title="Comedy"
+     android:id="@+id/comedy"
+     android:icon="@drawable/account"/>
+
+ <item
+     android:title="Action"
+     android:id="@+id/action"
+     android:icon="@drawable/settings"/>
+
+</menu>

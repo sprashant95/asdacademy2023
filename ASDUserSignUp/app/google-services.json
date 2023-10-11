@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "763904691159",
+    "project_id": "asdusersignup",
+    "storage_bucket": "asdusersignup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763904691159:android:f661cb48f9780fb95b5992",
+        "android_client_info": {
+          "package_name": "com.example.asdusersignup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtj7p7gdjF2YQw3PfndtlSDnslceIwTZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

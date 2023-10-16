@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ASDAdvertiseAPI</string>
+
+    <string name="banner_ad_unit">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
